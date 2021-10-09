@@ -1,7 +1,8 @@
 {
  "headers": {
    "/*" : {
-   "X-Author": "dogstation38"
+   "X-Author": "dogstation38", 
+    "Access-Control-Allow-Origin": "*"
    } 
 }
 }
